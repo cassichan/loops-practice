@@ -12,15 +12,14 @@
 // statement code is executed while condition is true
 
 const object = {
-    name: "Cass",
-    age: 30,
-    isInClass: true,
+  name: "Cass",
+  age: 30,
+  isInClass: true,
 };
 
 // for (const key in object) {
 //     console.log(key);
 // } //outputs just the key/property names
-
 
 // for (const key in object) {
 // //     console.log(object[key]);

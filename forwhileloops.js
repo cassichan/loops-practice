@@ -12,6 +12,6 @@
 
 let i = 0;
 do {
-    i++;
-    console.log(i);
-} while (i < 10); //outputs 1-10 
+  i++;
+  console.log(i);
+} while (i < 10); //outputs 1-10

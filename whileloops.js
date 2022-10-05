@@ -8,10 +8,8 @@
 //     console.log("This is iteration #", i);
 // }
 
-
-
 let i = 0;
 while (i < 10) {
-    i++
-    console.log(i);
+  i++;
+  console.log(i);
 }
